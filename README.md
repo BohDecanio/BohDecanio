@@ -1,12 +1,12 @@
 <h1>Hi! I'm Ítalo Decanio. :computer:</h1>
 
 
-<p align="center">I ❤️ challenges and exploring my creativity. <br><br> I <strong> focus on discovering new things</strong> and using them to develop my skills. Today, I'm a <strong>full stack developer in progress.</strong> Lastly, but very important: I m in love with my Boh-family(Levi and Tai).</p>&nbsp;
+<p align="center">I challenges and exploring my creativity. <br><br> I <strong> focus on discovering new things</strong> and using them to develop my skills. Today, I'm a <strong>full stack developer in progress.</strong> Lastly, but very important: I m in love with my Boh-family(Levi and Tai).</p>&nbsp;
 
 <div  align="center">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana&theme=radical&card_width=488&card_height=165)](https://git.io/streak-stats)&nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BohDecanio&theme=radical&card_width=488&card_height=165)](https://git.io/streak-stats)&nbsp; &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BohDecanio&layout=compact&theme=radical)
  
 </div>
 
